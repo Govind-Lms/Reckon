@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912468025969",
+    "firebase_url": "https://invoicereckon-e6666.firebaseio.com",
+    "project_id": "invoicereckon-e6666",
+    "storage_bucket": "invoicereckon-e6666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912468025969:android:094084ae3c69d4ebb1b1d0",
+        "android_client_info": {
+          "package_name": "com.govind.invoice_reckon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912468025969-a217v35m1oaa7n1eqtakffh92h7sn586.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD73_GIPNQKFNvBU1NBBHbPdoWbjxZUis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912468025969-a217v35m1oaa7n1eqtakffh92h7sn586.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
